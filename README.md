@@ -54,11 +54,7 @@ cd Travelscapes-main
 
 ## Contributors
 
-- [Atharva Kulkarni](https://github.com/AtharvaKulkarniIT)
-- [Tejas Kulkarni](https://github.com/Tejas466)
-- [Yash Kulkarni](https://github.com/yashkulkarni45)
+Umesh Mundhe
  
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
